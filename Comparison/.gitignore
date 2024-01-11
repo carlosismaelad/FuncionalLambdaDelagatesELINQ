@@ -1,0 +1,16 @@
+bin/
+obj/
+
+# Arquivos de dependências
+packages/
+
+# Arquivos de configuração
+appsettings.json
+
+# Arquivos temporários
+*.swp
+*.swo
+
+# Logs e arquivos gerados automaticamente
+*.log
+*.idea
