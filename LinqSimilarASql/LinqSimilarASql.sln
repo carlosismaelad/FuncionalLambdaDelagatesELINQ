@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqSimilarASql", "LinqSimilarASql\LinqSimilarASql.csproj", "{A1782149-CF77-4FF5-8999-32751A724F79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1782149-CF77-4FF5-8999-32751A724F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1782149-CF77-4FF5-8999-32751A724F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1782149-CF77-4FF5-8999-32751A724F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1782149-CF77-4FF5-8999-32751A724F79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {704E841C-3D46-40DB-B633-4D30B9651FB0}
+	EndGlobalSection
+EndGlobal
